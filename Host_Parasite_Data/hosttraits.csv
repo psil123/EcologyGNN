@@ -1,0 +1,24 @@
+abbrev,genus,species,adultmass,diet_breadth,gest_length,ind_homerange,litter_size,max_age,abund
+chin,Chaetodipus,intermedius,16.5,2,30,0.04,4.5,36,86
+dime,Dipodomys,merriami,37.6,1,30.77,0.0016,5.4,24,1044
+disp,Dipodomys,spectabilis,125,4,23.49,0.0005,4.2,36,164
+taqu,Tamias,quadrivittatus,57.5,5,31.74,0.02,4,96,31
+neal,Neotoma,albigula,208,2,37,0.0002,2.5,92.4,356
+nemi,Neotoma,micropus,255,5,34,0.0002,2.5,27,8
+onar,Onychomys,arenicola,30,6,30.5,0.02,4.5,48,106
+onle,Onychomys,leucogaster,27.9,4,31.65,0.01,4,60,123
+pgfl,Perognathus,flavescens,9.21,2,25.5,0.0003,4.75,60,244
+pgfv,Perognathus,flavus,7.98,3,26,0.0017,4.43,60,666
+pmbo,Peromyscus,boylii,23.9,4,23.36,0.0025,3.19,18,17
+pmtr,Peromyscus,truei,27,2,32.37,0.0081,4,64.8,436
+remg,Reithrodontomys,megalotis,10.7,4,23.49,0.001,4,18,81
+remn,Reithrodontomys,montanus,10.9,3,20.99,0.0021,4,14,27
+spsp,Spermophilus,spilosoma,107,6,27.9,0.0085,5.92,84,42
+amin,Ammospermophilus,interpres,104,5,29.46,0.04,8.25,69.6,2
+amle,Ammospermophilus,leucurus,113,4,32,0.06,9.37,69.6,1
+dior,Dipodomys ,ordi,50.4,5,29.73,0.00404,2.91,117.6,481
+tado,Tamias,dorsalis,63.7,5,29.49,0.01,5,151.2,13
+pmer,Peromyscus,eremicus,22.7,6,27.43,0.00204,2.53,88.8,23
+pmma,Peromyscus,maniculatus,20.1,4,26.75,0.00184,4.8,99.6,4
+pmle,Peromyscus,leucopus,18.1,6,23.2,0.000802,4.25,38,120
+sihi,Sigmodon,hispidus,111,5,27,0.00218,5.3,62.4,2
