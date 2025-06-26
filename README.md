@@ -1,15 +1,24 @@
-# EcologyGNN
+# Imperfect Detection in Heterogeneous Complex Ecological Network: A GNN-based Approach
+**Official implementation** of the paper:  
+👉 [Imperfect Detection in Heterogeneous Complex Ecological Network: A GNN-based Approach](https://dl.acm.org/doi/10.1145/3703323.3703752)  
+Published at *CODS-COMAD 2023*
 
-This is the code to the paper : 
-```
-Ghosh, M., Sil, P., & Dutta, A. (2025). Imperfect Detection in Heterogeneous Complex Ecological Network: A GNN-based Approach. In Proceedings of the 8th International Conference on Data Science and Management of Data (12th ACM IKDD CODS and 30th COMAD) (pp. 152–159). Association for Computing Machinery. 
-```
-Link to paper : [link](https://dl.acm.org/doi/10.1145/3703323.3703752)
+---
 
-### Abstract
-Link prediction is challenging for complex ecological networks as the observed data are often incomplete during field sampling. Given a plant-pollinator network, models using a non-negative matrix factorisation and Poisson N-mixture successfully address the ecological issues with imperfect detection while establishing a binary model for predicting unobserved links. We drive an advanced nonlinear approach using a neural network while exploiting a hybrid strategy of the Poisson N-mixture model and the Gaussian mixture model in statistical ecology. This generates a predictive model for link prediction along with interaction probabilities. Evaluation of our method on test data revealed an AUROC (area under the receiver operating characteristic curve) of 85.4% and AUPRC (area under the precision-recall curve) of 80.1% which is significantly higher compared to the current state-of-the-art solutions. Moreover, it has theoretical support since its optimization technique ensures convergence and scalability. 
+## 🔍 Overview
 
-## Files and Description
+Link prediction is challenging for complex ecological networks as the observed data are often incomplete during field sampling. Given a plant-pollinator network, models using a non-negative matrix factorisation and Poisson N-mixture successfully address the ecological issues with imperfect detection while establishing a binary model for predicting unobserved links. We drive an advanced nonlinear approach using a neural network while exploiting a hybrid strategy of the Poisson N-mixture model and the Gaussian mixture model in statistical ecology. This generates a predictive model for link prediction along with interaction probabilities. Evaluation of our method on test data revealed an AUROC (area under the receiver operating characteristic curve) of 85.4% and AUPRC (area under the precision-recall curve) of 80.1% which is significantly higher compared to the current state-of-the-art solutions. Moreover, it has theoretical support since its optimization technique ensures convergence and scalability.
+
+---
+
+## 🧠 Key Contributions
+
+- Reresentation of ecological networks as heterogeneous graphs.
+- GNN based approach to model such complex ecological networks
+
+---
+
+## 📂 Directory Structure
 
 ### Plant Pollinator Network 
 1. Plant_Pollinator_Data - Cleaned data for the Plant Pollinator network
@@ -19,9 +28,7 @@ Link prediction is challenging for complex ecological networks as the observed d
 1. Host_Parasite_Data - Cleaned data for the Host Parasite network
 2. Ecology_GNN_Host_Parasite.ipynb - Code for training GNns on Host Parasite Network
 
-Kindly install jupyter notebook and run the corresponding cells in the ipynb files.
-
-### Citation
+## Citation
 ```commandline
 @inproceedings{10.1145/3703323.3703752,
 author = {Ghosh, Moumita and Sil, Pritam and Dutta, Animesh},
