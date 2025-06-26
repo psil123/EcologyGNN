@@ -14,9 +14,13 @@ Link prediction is challenging for complex ecological networks as the observed d
 
 ## Key Contributions
 
-- Reresentation of ecological networks as heterogeneous graphs.
-- GNN based approach to model such complex ecological networks
+- Proposed a hybrid model combining statistical ecology and Graph Neural Networks (GNNs) for ecological link prediction.
+- Modeled plant-pollinator data as a heterogeneous bipartite graph with probabilistic interaction strengths.
+- Designed a GNN-based link predictor that effectively captures structural patterns in sparse ecological networks.
+- Enabled probabilistic ecological inference, improving support for biodiversity restoration and conservation planning.
+- Provided a reproducible pipeline, made available for the research community.
 
+  
 ---
 
 ## Directory Structure
