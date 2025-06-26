@@ -1,8 +1,9 @@
 # EcologyGNN
 
 This is the code to the paper : 
+```commandline
 Ghosh, M., Sil, P., & Dutta, A. (2025). Imperfect Detection in Heterogeneous Complex Ecological Network: A GNN-based Approach. In Proceedings of the 8th International Conference on Data Science and Management of Data (12th ACM IKDD CODS and 30th COMAD) (pp. 152–159). Association for Computing Machinery. (https://dl.acm.org/doi/10.1145/3703323.3703752)
-
+```
 
 ## Files and Description
 
